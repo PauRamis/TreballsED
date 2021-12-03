@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class calc {
 
-    /* static int add(int x, int y) {
+    static int add(int x, int y) {
          int resultat = x + y;
         return resultat;
     }
@@ -34,7 +34,7 @@ public class calc {
      static double multiply(double x, double y) {
          double resultat = x * y;
          return resultat;
-     } */
+     }
          static double divide(double x, double y) {
              double resultat = x / y;
              return resultat;
