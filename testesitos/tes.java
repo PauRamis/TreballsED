@@ -3,8 +3,8 @@ import org.junit.Test;
 
 public class tes {
     @Test
-    public void calculadora() {
-        Assert.assertTrue(true);
+    public void test1() {
+        //assertEquals("One", calc.operate(1));
+
     }
 }
-xº
